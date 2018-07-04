@@ -18,7 +18,7 @@ To get started with the project, make sure you have all the prerequisite above.
 
 * Clone this project to your machine
 * Follow the instructions [here](https://github.com/neoighodaro-articles/todolist-demo/blob/master/vanilla/readme.md) to setup the vanilla PHP version.
-* Follow the instructions [here](https://github.com/ichtrojan/neoighodaro-articles/todolist-demo/blob/master/laravel/readme.md) to setup the Laravel version.
+* Follow the instructions [here](https://github.com/neoighodaro-articles/todolist-demo/blob/master/laravel/readme.md) to setup the Laravel version.
 
 
 ## Built With
