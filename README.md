@@ -1,6 +1,8 @@
 # Todo List Application in Laravel and Vanilla PHP
 
-This is a case study app to explain the differences between vanilla PHP and Laravel and why to switch to Laravel
+This is a case study app to explain the differences between vanilla PHP and Laravel and why to switch to Laravel.
+
+[View tutorial](http://blog.pusher.com/php-laravel-migration)
 
 
 ### Prerequisites
